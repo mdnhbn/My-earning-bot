@@ -1,8 +1,8 @@
 # config.py
 # Bot settings and admin configuration
 
-TOKEN = "YOUR_BOTFATHER_TOKEN"   # BotFather থেকে পাওয়া টোকেন এখানে বসাও
-ADMIN_IDS = [123456789]          # এডমিনদের টেলিগ্রাম ইউজার আইডি বসাও (list)
+TOKEN = "7924237999:AAEIECs7ALkUN8mv1-njDRxxht4wAZyJXkM"   # BotFather থেকে পাওয়া টোকেন এখানে বসাও
+ADMIN_IDS = [929198867]          # এডমিনদের টেলিগ্রাম ইউজার আইডি বসাও (list)
 
 # প্রাথমিক বাধ্যতামূলক চ্যানেল — কমান্ড দিয়ে পরেও আপডেট করা যাবে
 REQUIRED_CHANNELS = [
